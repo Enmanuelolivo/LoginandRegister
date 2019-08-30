@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Application xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="Tarea.App">
+    <Application.Resources>
+        <ResourceDictionary>
+            <Style x:Key="Picture" TargetType="Image">
+                <Setter Property="VerticalOptions" Value="Center"/>
+                <Setter Property="HorizontalOptions" Value="Center"/>
+                <Setter Property="Source" Value="foto7.png"/>
+                <Setter Property="WidthRequest" Value="200"/>
+                <Setter Property="HeightRequest" Value="200"/>
+
+            </Style>
+            <Style x:Key="EntryUser" TargetType="Entry">
+                <Setter Property="Margin" Value="5"/>
+            </Style>
+            <Style x:Key="EntryUserPass" TargetType="Entry">
+                <Setter Property="Margin" Value="5"/>
+                <Setter Property="IsPassword" Value="True"/>
+            </Style>
+            <Style x:Key="Button" TargetType="Button">
+                <Setter Property="TextColor" Value="white"/>
+                <Setter Property="BackgroundColor" Value="Gray"/>
+                <Setter Property="VerticalOptions" Value="CenterAndExpand"/>
+            </Style>
+            <Style x:Key="LabelResult" TargetType="Label">
+                <Setter Property="TextColor" Value="Black"/>
+                <Setter Property="FontFamily" Value="Times New Roman"/>
+                <Setter Property="VerticalOptions" Value="CenterAndExpand"/>
+            </Style>
+            <Style x:Key="NavButton" TargetType="Button">
+                <Setter Property="TextColor" Value="white"/>
+                <Setter Property="Margin" Value="70"/>
+                <Setter Property="Font" Value="20"/>
+                <Setter Property="FontFamily" Value="Lucida Sans Unicode"/>
+            </Style>
+
+
+        </ResourceDictionary>
+    </Application.Resources>
+</Application>

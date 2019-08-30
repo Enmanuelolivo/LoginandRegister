@@ -1,0 +1,33 @@
+C:\Users\enman\Google Drive\Desarrollo de aps\Tarea\Tarea\Tarea\bin\Debug\netstandard2.0\Tarea.deps.json
+C:\Users\enman\Google Drive\Desarrollo de aps\Tarea\Tarea\Tarea\bin\Debug\netstandard2.0\Tarea.dll
+C:\Users\enman\Google Drive\Desarrollo de aps\Tarea\Tarea\Tarea\bin\Debug\netstandard2.0\ref\Tarea.dll
+C:\Users\enman\Google Drive\Desarrollo de aps\Tarea\Tarea\Tarea\bin\Debug\netstandard2.0\Tarea.pdb
+C:\Users\enman\Google Drive\Desarrollo de aps\Tarea\Tarea\Tarea\obj\Debug\netstandard2.0\Tarea.csprojAssemblyReference.cache
+C:\Users\enman\Google Drive\Desarrollo de aps\Tarea\Tarea\Tarea\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\enman\Google Drive\Desarrollo de aps\Tarea\Tarea\Tarea\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\enman\Google Drive\Desarrollo de aps\Tarea\Tarea\Tarea\obj\Debug\netstandard2.0\Tarea.csproj.CoreCompileInputs.cache
+C:\Users\enman\Google Drive\Desarrollo de aps\Tarea\Tarea\Tarea\obj\Debug\netstandard2.0\Tarea.AssemblyInfoInputs.cache
+C:\Users\enman\Google Drive\Desarrollo de aps\Tarea\Tarea\Tarea\obj\Debug\netstandard2.0\Tarea.AssemblyInfo.cs
+C:\Users\enman\Google Drive\Desarrollo de aps\Tarea\Tarea\Tarea\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\enman\Google Drive\Desarrollo de aps\Tarea\Tarea\Tarea\obj\Debug\netstandard2.0\Tarea.dll
+C:\Users\enman\Google Drive\Desarrollo de aps\Tarea\Tarea\Tarea\obj\Debug\netstandard2.0\ref\Tarea.dll
+C:\Users\enman\Google Drive\Desarrollo de aps\Tarea\Tarea\Tarea\obj\Debug\netstandard2.0\Tarea.pdb
+C:\Users\enman\Google Drive\Desarrollo de aps\Tarea\Tarea\Tarea\obj\Debug\netstandard2.0\LoginPage.xaml.g.cs
+C:\Users\enman\Downloads\Desarrollo-master\Tarea\Tarea\Tarea\obj\Debug\netstandard2.0\Tarea.csprojAssemblyReference.cache
+C:\Users\enman\Downloads\Desarrollo-master\Tarea\Tarea\Tarea\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\enman\Downloads\Desarrollo-master\Tarea\Tarea\Tarea\obj\Debug\netstandard2.0\Views\HomePage.xaml.g.cs
+C:\Users\enman\Downloads\Desarrollo-master\Tarea\Tarea\Tarea\obj\Debug\netstandard2.0\Views\LoginPage.xaml.g.cs
+C:\Users\enman\Downloads\Desarrollo-master\Tarea\Tarea\Tarea\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Users\enman\Downloads\Desarrollo-master\Tarea\Tarea\Tarea\obj\Debug\netstandard2.0\Views\RegisterPage.xaml.g.cs
+C:\Users\enman\Downloads\Desarrollo-master\Tarea\Tarea\Tarea\obj\Debug\netstandard2.0\Tarea.csproj.CoreCompileInputs.cache
+C:\Users\enman\Downloads\Desarrollo-master\Tarea\Tarea\Tarea\obj\Debug\netstandard2.0\Tarea.AssemblyInfoInputs.cache
+C:\Users\enman\Downloads\Desarrollo-master\Tarea\Tarea\Tarea\obj\Debug\netstandard2.0\Tarea.AssemblyInfo.cs
+C:\Users\enman\Downloads\Desarrollo-master\Tarea\Tarea\Tarea\obj\Debug\netstandard2.0\Tarea.dll
+C:\Users\enman\Downloads\Desarrollo-master\Tarea\Tarea\Tarea\obj\Debug\netstandard2.0\ref\Tarea.dll
+C:\Users\enman\Downloads\Desarrollo-master\Tarea\Tarea\Tarea\obj\Debug\netstandard2.0\Tarea.pdb
+C:\Users\enman\Downloads\Desarrollo-master\Tarea\Tarea\Tarea\bin\Debug\netstandard2.0\Tarea.deps.json
+C:\Users\enman\Downloads\Desarrollo-master\Tarea\Tarea\Tarea\bin\Debug\netstandard2.0\Tarea.dll
+C:\Users\enman\Downloads\Desarrollo-master\Tarea\Tarea\Tarea\bin\Debug\netstandard2.0\ref\Tarea.dll
+C:\Users\enman\Downloads\Desarrollo-master\Tarea\Tarea\Tarea\bin\Debug\netstandard2.0\Tarea.pdb
+C:\Users\enman\Downloads\Desarrollo-master\Tarea\Tarea\Tarea\obj\Debug\netstandard2.0\Tarea.csproj.Fody.CopyLocal.cache
+C:\Users\enman\Downloads\Desarrollo-master\Tarea\Tarea\Tarea\obj\Debug\netstandard2.0\XamlC.stamp
