@@ -644,11 +644,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\enman\\Downloads\\Desarrollo-master\\Tarea\\Tarea\\Tarea\\Tarea.csproj",
+      "projectUniqueName": "C:\\Users\\enman\\Documents\\LoginandRegister\\Tarea\\Tarea\\Tarea\\Tarea.csproj",
       "projectName": "Tarea",
-      "projectPath": "C:\\Users\\enman\\Downloads\\Desarrollo-master\\Tarea\\Tarea\\Tarea\\Tarea.csproj",
+      "projectPath": "C:\\Users\\enman\\Documents\\LoginandRegister\\Tarea\\Tarea\\Tarea\\Tarea.csproj",
       "packagesPath": "C:\\Users\\enman\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\enman\\Downloads\\Desarrollo-master\\Tarea\\Tarea\\Tarea\\obj\\",
+      "outputPath": "C:\\Users\\enman\\Documents\\LoginandRegister\\Tarea\\Tarea\\Tarea\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",

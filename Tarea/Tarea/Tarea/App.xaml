@@ -28,7 +28,7 @@
                 <Setter Property="VerticalOptions" Value="CenterAndExpand"/>
             </Style>
             <Style x:Key="LabelResult" TargetType="Label">
-                <Setter Property="TextColor" Value="Black"/>
+                <Setter Property="TextColor" Value="Red"/>
                 <Setter Property="FontFamily" Value="Times New Roman"/>
                 <Setter Property="VerticalOptions" Value="CenterAndExpand"/>
             </Style>

@@ -5283,11 +5283,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\enman\\Downloads\\Desarrollo-master\\Tarea\\Tarea\\Tarea.Android\\Tarea.Android.csproj",
+      "projectUniqueName": "C:\\Users\\enman\\Documents\\LoginandRegister\\Tarea\\Tarea\\Tarea.Android\\Tarea.Android.csproj",
       "projectName": "Tarea.Android",
-      "projectPath": "C:\\Users\\enman\\Downloads\\Desarrollo-master\\Tarea\\Tarea\\Tarea.Android\\Tarea.Android.csproj",
+      "projectPath": "C:\\Users\\enman\\Documents\\LoginandRegister\\Tarea\\Tarea\\Tarea.Android\\Tarea.Android.csproj",
       "packagesPath": "C:\\Users\\enman\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\enman\\Downloads\\Desarrollo-master\\Tarea\\Tarea\\Tarea.Android\\obj\\",
+      "outputPath": "C:\\Users\\enman\\Documents\\LoginandRegister\\Tarea\\Tarea\\Tarea.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -5308,8 +5308,8 @@
       "frameworks": {
         "monoandroid90": {
           "projectReferences": {
-            "C:\\Users\\enman\\Downloads\\Desarrollo-master\\Tarea\\Tarea\\Tarea\\Tarea.csproj": {
-              "projectPath": "C:\\Users\\enman\\Downloads\\Desarrollo-master\\Tarea\\Tarea\\Tarea\\Tarea.csproj"
+            "C:\\Users\\enman\\Documents\\LoginandRegister\\Tarea\\Tarea\\Tarea\\Tarea.csproj": {
+              "projectPath": "C:\\Users\\enman\\Documents\\LoginandRegister\\Tarea\\Tarea\\Tarea\\Tarea.csproj"
             }
           }
         }

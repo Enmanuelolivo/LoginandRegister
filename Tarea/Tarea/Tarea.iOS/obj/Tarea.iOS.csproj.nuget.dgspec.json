@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\enman\\Downloads\\Desarrollo-master\\Tarea\\Tarea\\Tarea.iOS\\Tarea.iOS.csproj": {}
+    "C:\\Users\\enman\\Documents\\LoginandRegister\\Tarea\\Tarea\\Tarea.iOS\\Tarea.iOS.csproj": {}
   },
   "projects": {
-    "C:\\Users\\enman\\Downloads\\Desarrollo-master\\Tarea\\Tarea\\Tarea.iOS\\Tarea.iOS.csproj": {
+    "C:\\Users\\enman\\Documents\\LoginandRegister\\Tarea\\Tarea\\Tarea.iOS\\Tarea.iOS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\enman\\Downloads\\Desarrollo-master\\Tarea\\Tarea\\Tarea.iOS\\Tarea.iOS.csproj",
+        "projectUniqueName": "C:\\Users\\enman\\Documents\\LoginandRegister\\Tarea\\Tarea\\Tarea.iOS\\Tarea.iOS.csproj",
         "projectName": "Tarea.iOS",
-        "projectPath": "C:\\Users\\enman\\Downloads\\Desarrollo-master\\Tarea\\Tarea\\Tarea.iOS\\Tarea.iOS.csproj",
+        "projectPath": "C:\\Users\\enman\\Documents\\LoginandRegister\\Tarea\\Tarea\\Tarea.iOS\\Tarea.iOS.csproj",
         "packagesPath": "C:\\Users\\enman\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\enman\\Downloads\\Desarrollo-master\\Tarea\\Tarea\\Tarea.iOS\\obj\\",
+        "outputPath": "C:\\Users\\enman\\Documents\\LoginandRegister\\Tarea\\Tarea\\Tarea.iOS\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
@@ -32,8 +32,8 @@
         "frameworks": {
           "xamarinios10": {
             "projectReferences": {
-              "C:\\Users\\enman\\Downloads\\Desarrollo-master\\Tarea\\Tarea\\Tarea\\Tarea.csproj": {
-                "projectPath": "C:\\Users\\enman\\Downloads\\Desarrollo-master\\Tarea\\Tarea\\Tarea\\Tarea.csproj"
+              "C:\\Users\\enman\\Documents\\LoginandRegister\\Tarea\\Tarea\\Tarea\\Tarea.csproj": {
+                "projectPath": "C:\\Users\\enman\\Documents\\LoginandRegister\\Tarea\\Tarea\\Tarea\\Tarea.csproj"
               }
             }
           }
@@ -69,14 +69,14 @@
         }
       }
     },
-    "C:\\Users\\enman\\Downloads\\Desarrollo-master\\Tarea\\Tarea\\Tarea\\Tarea.csproj": {
+    "C:\\Users\\enman\\Documents\\LoginandRegister\\Tarea\\Tarea\\Tarea\\Tarea.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\enman\\Downloads\\Desarrollo-master\\Tarea\\Tarea\\Tarea\\Tarea.csproj",
+        "projectUniqueName": "C:\\Users\\enman\\Documents\\LoginandRegister\\Tarea\\Tarea\\Tarea\\Tarea.csproj",
         "projectName": "Tarea",
-        "projectPath": "C:\\Users\\enman\\Downloads\\Desarrollo-master\\Tarea\\Tarea\\Tarea\\Tarea.csproj",
+        "projectPath": "C:\\Users\\enman\\Documents\\LoginandRegister\\Tarea\\Tarea\\Tarea\\Tarea.csproj",
         "packagesPath": "C:\\Users\\enman\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\enman\\Downloads\\Desarrollo-master\\Tarea\\Tarea\\Tarea\\obj\\",
+        "outputPath": "C:\\Users\\enman\\Documents\\LoginandRegister\\Tarea\\Tarea\\Tarea\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
